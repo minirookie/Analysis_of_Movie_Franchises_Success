@@ -10,7 +10,7 @@ output: word_document
 # and it is important to the profitability of the movie business.
 
 rm(list = ls())
-setwd("/Users/syu/Documents_syu_Backup/Projects_Github")
+setwd("/Users/syu/Documents_syu/")
 
 #read two data files and order datasets in an invert chronical order
 movie.meta = read.csv("movie_metadata_cleaned.csv", header = T, sep = ",", 
