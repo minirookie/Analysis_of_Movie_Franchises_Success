@@ -3,7 +3,7 @@ install.packages("rvest")
 library(xml2)
 library(rvest)
 
-setwd("/Users/syu/Documents/Documents_syu/BInA_certificate/MIS7621/Project")
+setwd("/Users/syu/Documents/Documents_syu/")
 
 # set url for scrapping franchise movie data
 moviefranch.url <- "http://www.the-numbers.com/movies/franchises/"
