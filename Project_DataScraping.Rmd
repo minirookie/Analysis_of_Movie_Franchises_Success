@@ -11,7 +11,7 @@ rm(list = ls())
 library(xml2)
 library(rvest)
 
-setwd("/Users/syu/Documents/Documents_syu/BI&A_certificate/MIS7621/Project")
+setwd("/Users/syu/Documents/Documents_syu/")
 
 moviefranch.url <- "http://www.the-numbers.com/movies/franchises/"
 
