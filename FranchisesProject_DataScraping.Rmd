@@ -1,7 +1,7 @@
 ---
 title: "Project_DataScraping"
 author: "Shanshan Yu"
-date: "10/17/2017"
+
 output: word_document
 ---
 
